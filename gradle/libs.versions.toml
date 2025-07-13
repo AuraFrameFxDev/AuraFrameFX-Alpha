@@ -147,6 +147,5 @@ kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", versi
 openapi-generator = { id = "org.openapi.generator", version.ref = "openapiGeneratorPlugin" }
 firebase-crashlytics = { id = "com.google.firebase.crashlytics", version.ref = "firebaseCrashlyticsPlugin" }
 firebase-perf = { id = "com.google.firebase.firebase-perf", version.ref = "firebasePerfPlugin" }
-kotlin-compose = { id = "org.jetbrains.kotlin.compose", version.ref = "kotlin" } # Align with Kotlin version
 gradle-toolchains-foojay-resolver = { id = "org.gradle.toolchains.foojay-resolver-convention", version.ref = "toolchainsFoojayResolver" }
 
